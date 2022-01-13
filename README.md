@@ -1,5 +1,5 @@
 
-![Logo](https://www.freepnglogos.com/uploads/translate-logo-png/google-translate-logo-emblem-symbol-services-application-12.png)
+![Logo](https://www.kindpng.com/picc/m/656-6562886_google-translate-logo-google-translate-hd-png-download.png)
 # Translator JSON To Any Language 
 
 Translator JSON To Any Language is using Nodejs for translate from one language to any language with google translator
